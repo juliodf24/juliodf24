@@ -99,11 +99,3 @@
 </table>
 
 ---
-
-<!-- Contato -->
-<h2 align="center" style="color:white;">📫 Let's Connect!</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/julio-cesar-lisboa" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
